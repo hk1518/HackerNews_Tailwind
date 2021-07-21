@@ -1,0 +1,121 @@
+@tailwind components;
+@tailwind utilities;
+
+/* Headers */
+/* .mainPage {
+    margin: 0 8.5% 0 7.5%;
+    background-color: rgb(243, 243, 243);
+  } */
+  p{
+    margin:0;
+  }
+  /* .nav {
+    background-color: orangered;
+  }
+  .nav-comm {
+    font-size: smaller;
+    display: inline-block;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 10px;
+  }
+  .nav-heading {
+    font-size: 0.85rem;
+    display: inline-block;
+    font-weight: bolder;
+    margin: 0;
+    padding: 0;
+    padding-left: 30px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+  } */
+  
+  /* .titleAndUrl{
+    padding-left:1.5rem;
+    
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+  } */
+  /* .numberAndBtn{
+    padding-left:7px;
+    
+    color:rgb(136, 136, 136);
+    font-size: 13px;
+    display:flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;
+  } */
+  /* .blogDetails{
+    padding-top:.75rem;
+    display:flex;
+    flex-direction: row;
+  } */
+  /* #btn{
+    margin-left:1rem;
+    width:20px;
+    height:20px;
+  }
+   */
+  /* .blogStats{
+    padding-left:1.5rem;
+    font-size: 12px;
+    
+    display:flex;
+    flex-direction: row;
+  } */
+  /* .TitleAndStats{
+    display:flex;
+    flex-direction: column;
+  } */
+  /* .blogTitle{
+    margin-right:10px;
+      font-size: 15px;;
+  } */
+  /* .blogUrl{
+      color:rgb(136, 136, 136);
+    font-size:13px;
+  } */
+  /* DetailsPage */
+
+  /* .detailsCont {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  } */
+  
+  /* .postTitle {
+    text-align: center;
+    background-color: brown;
+  } */
+  
+  /* .buttons {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+  } */
+  /* .commentForm {
+    text-align: center;
+    margin-bottom: 4rem;
+  } */
+  
+  /* .commentSecDispay {
+    color: rgb(136, 136, 136);
+    padding-top: 1rem;
+    padding-left: 2rem;
+  } */
+  
+  /* .goBackBtn {
+    display: flex;
+    margin: 40px auto 0 auto;
+  } */
+
+  /* @media all and (max-width :786px){
+    .formarea{
+      width: 350px;
+      height:250px;
+    }
+  } */
